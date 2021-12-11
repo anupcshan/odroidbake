@@ -5,7 +5,7 @@ go 1.17
 replace github.com/gokrazy/tools => github.com/anupcshan/tools v0.0.0-20211205200738-3f56c77907be
 
 require (
-	github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211205050806-6211c2b15b62 // indirect
+	github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211209173619-b37ed40fd87a // indirect
 	github.com/breml/rootcerts v0.2.0 // indirect
 	github.com/gokrazy/bakery v0.0.0-20210907075031-9b304d69f8f6 // indirect
 	github.com/gokrazy/breakglass v0.0.0-20211128150038-339c9ce56c98 // indirect
