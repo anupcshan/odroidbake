@@ -1,4 +1,6 @@
 github.com/anatol/vmtest v0.0.0-20210623221036-69fc760fbd4b/go.mod h1:l08qtd2JHjoYWIROnbKoKCUqIbe54ndrXwDdyiDfq30=
+github.com/anupcshan/bakery v0.0.0-20211116054014-fb8020da3ac8 h1:mb4KokVc0KkaJ0IY1WNFmqlOgi73Qo64ToLDrKAfcYw=
+github.com/anupcshan/bakery v0.0.0-20211116054014-fb8020da3ac8/go.mod h1:mIzwdWfhb0dCo/VgMXBpYPsdvfxevPQ4isJgOMzLV3U=
 github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211209173619-b37ed40fd87a h1:68x+nno5f86+6T3Ln1JhDbJ6TEqjdyn2zAu4wgIUKPM=
 github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211209173619-b37ed40fd87a/go.mod h1:PWzO6mGVoCJYx1MWOeNtTcaS0pKhBX2T3oQtkAQoDFg=
 github.com/anupcshan/tools v0.0.0-20211205200738-3f56c77907be h1:ShtEa48NWssJgmxfQ1MvYcAcWaCobs+YB4p7OqgHkIw=
@@ -9,15 +11,13 @@ github.com/breml/rootcerts v0.2.0 h1:bBIgVe8bS0Ec+orgWpZ/GRYt3a0O8yoW+g2kSBY2aLE
 github.com/breml/rootcerts v0.2.0/go.mod h1:24FDtzYMpqIeYC7QzaE8VPRQaFZU5TIUDlyk8qwjD88=
 github.com/creack/pty v1.1.7 h1:6pwm8kMQKCmgUg0ZHTm5+/YvRK0s3THD/28+T6/kk4A=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/gokrazy/bakery v0.0.0-20210907075031-9b304d69f8f6 h1:q9zncPWITKyATzbsAIVpX2GkDKe6WtDFXitAjGztWE4=
-github.com/gokrazy/bakery v0.0.0-20210907075031-9b304d69f8f6/go.mod h1:mIzwdWfhb0dCo/VgMXBpYPsdvfxevPQ4isJgOMzLV3U=
 github.com/gokrazy/breakglass v0.0.0-20211128150038-339c9ce56c98 h1:6D1n0b9LntAl5iTkKHs3DaQAkN0kHfw4c5YUNn0lwj8=
 github.com/gokrazy/breakglass v0.0.0-20211128150038-339c9ce56c98/go.mod h1:wgXQ8MBqfzI64iT6VsqfW4nnfXOIuelqUXz0z+1iVHk=
 github.com/gokrazy/gokrazy v0.0.0-20200501080617-f3445e01a904/go.mod h1:pq6rGHqxMRPSaTXaCMzIZy0wLDusAJyoVNyNo05RLs0=
 github.com/gokrazy/gokrazy v0.0.0-20211024151958-b718dd90ae71 h1:NHLkr4NYMY9gZGTI+jzIo38ZffMHkPbBzMcUDkyHs0g=
 github.com/gokrazy/gokrazy v0.0.0-20211024151958-b718dd90ae71/go.mod h1:eq2ROPhZJtxxEi21P8cbNqP8pwRBSpW/4LGKwNiQg2Y=
-github.com/gokrazy/gokrazy v0.0.0-20211204181123-13366ee74a54 h1:fiwxBXga8pkIt0Urno79iXL9N2vtU/xEgheuU0KEws8=
-github.com/gokrazy/gokrazy v0.0.0-20211204181123-13366ee74a54/go.mod h1:JNNzNYJw3sUKc3lRtAeFv79YZI85Q3Og59BG1KBA1ss=
+github.com/gokrazy/gokrazy v0.0.0-20211213081744-af5773f40f52 h1:u0411IGD58Dok+pz/z59m3Wfp3C6HUv8uRU6jDQu06E=
+github.com/gokrazy/gokrazy v0.0.0-20211213081744-af5773f40f52/go.mod h1:JNNzNYJw3sUKc3lRtAeFv79YZI85Q3Og59BG1KBA1ss=
 github.com/gokrazy/internal v0.0.0-20200407075822-660ad467b7c9/go.mod h1:LA5TQy7LcvYGQOy75tkrYkFUhbV2nl5qEBP47PSi2JA=
 github.com/gokrazy/internal v0.0.0-20200626090505-539bb61868de/go.mod h1:LA5TQy7LcvYGQOy75tkrYkFUhbV2nl5qEBP47PSi2JA=
 github.com/gokrazy/internal v0.0.0-20210621162516-1b3b5687a06d/go.mod h1:Gqv1x1DNrObmBvVvblpZbvZizZ0dU5PwiwYHipmtY9Y=
