@@ -1,5 +1,5 @@
 packages = github.com/gokrazy/breakglass github.com/gokrazy/serial-busybox github.com/gokrazy/bakery/cmd/bake
-commonflags = -kernel_package=github.com/anupcshan/gokrazy-odroidxu4-kernel -eeprom_package= -serial_console=disabled -firmware_package= -force_no_gpt
+commonflags = -kernel_package=github.com/anupcshan/gokrazy-odroidxu4-kernel -eeprom_package= -serial_console=disabled -firmware_package=
 
 install-tools:
 	go mod edit -replace=github.com/gokrazy/tools=github.com/anupcshan/tools@add-odroid-support

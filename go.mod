@@ -2,7 +2,7 @@ module github.com/anupcshan/gokrazy-odroidxu4-example
 
 go 1.17
 
-replace github.com/gokrazy/tools => github.com/anupcshan/tools v0.0.0-20211205200738-3f56c77907be
+replace github.com/gokrazy/tools => github.com/anupcshan/tools v0.0.0-20211214075733-b647256fbef8
 
 replace github.com/gokrazy/bakery => github.com/anupcshan/bakery v0.0.0-20211116054014-fb8020da3ac8
 

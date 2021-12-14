@@ -3,8 +3,8 @@ github.com/anupcshan/bakery v0.0.0-20211116054014-fb8020da3ac8 h1:mb4KokVc0KkaJ0
 github.com/anupcshan/bakery v0.0.0-20211116054014-fb8020da3ac8/go.mod h1:mIzwdWfhb0dCo/VgMXBpYPsdvfxevPQ4isJgOMzLV3U=
 github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211209173619-b37ed40fd87a h1:68x+nno5f86+6T3Ln1JhDbJ6TEqjdyn2zAu4wgIUKPM=
 github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211209173619-b37ed40fd87a/go.mod h1:PWzO6mGVoCJYx1MWOeNtTcaS0pKhBX2T3oQtkAQoDFg=
-github.com/anupcshan/tools v0.0.0-20211205200738-3f56c77907be h1:ShtEa48NWssJgmxfQ1MvYcAcWaCobs+YB4p7OqgHkIw=
-github.com/anupcshan/tools v0.0.0-20211205200738-3f56c77907be/go.mod h1:Vxhj/av6iY4g319wftI5N5eLagqyr8dbzbgciNg5AWI=
+github.com/anupcshan/tools v0.0.0-20211214075733-b647256fbef8 h1:gEFfiOpSizxub0bwRiH70uJRvMNf/ebsU+JJLE9kdsE=
+github.com/anupcshan/tools v0.0.0-20211214075733-b647256fbef8/go.mod h1:Vxhj/av6iY4g319wftI5N5eLagqyr8dbzbgciNg5AWI=
 github.com/beevik/ntp v0.2.0 h1:sGsd+kAXzT0bfVfzJfce04g+dSRfrs+tbQW8lweuYgw=
 github.com/beevik/ntp v0.2.0/go.mod h1:hIHWr+l3+/clUnF44zdK+CWW7fO8dR5cIylAQ76NRpg=
 github.com/breml/rootcerts v0.2.0 h1:bBIgVe8bS0Ec+orgWpZ/GRYt3a0O8yoW+g2kSBY2aLE=
