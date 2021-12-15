@@ -1,8 +1,8 @@
 github.com/anatol/vmtest v0.0.0-20210623221036-69fc760fbd4b/go.mod h1:l08qtd2JHjoYWIROnbKoKCUqIbe54ndrXwDdyiDfq30=
 github.com/anupcshan/bakery v0.0.0-20211116054014-fb8020da3ac8 h1:mb4KokVc0KkaJ0IY1WNFmqlOgi73Qo64ToLDrKAfcYw=
 github.com/anupcshan/bakery v0.0.0-20211116054014-fb8020da3ac8/go.mod h1:mIzwdWfhb0dCo/VgMXBpYPsdvfxevPQ4isJgOMzLV3U=
-github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211209173619-b37ed40fd87a h1:68x+nno5f86+6T3Ln1JhDbJ6TEqjdyn2zAu4wgIUKPM=
-github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211209173619-b37ed40fd87a/go.mod h1:PWzO6mGVoCJYx1MWOeNtTcaS0pKhBX2T3oQtkAQoDFg=
+github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211215061635-fe3ead8be485 h1:+Q5zB2w69H0rLB/wMeqVIPv7SYcGZvsTpUALvsUAYK8=
+github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211215061635-fe3ead8be485/go.mod h1:PWzO6mGVoCJYx1MWOeNtTcaS0pKhBX2T3oQtkAQoDFg=
 github.com/anupcshan/tools v0.0.0-20211214075733-b647256fbef8 h1:gEFfiOpSizxub0bwRiH70uJRvMNf/ebsU+JJLE9kdsE=
 github.com/anupcshan/tools v0.0.0-20211214075733-b647256fbef8/go.mod h1:Vxhj/av6iY4g319wftI5N5eLagqyr8dbzbgciNg5AWI=
 github.com/beevik/ntp v0.2.0 h1:sGsd+kAXzT0bfVfzJfce04g+dSRfrs+tbQW8lweuYgw=
