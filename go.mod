@@ -7,14 +7,14 @@ replace github.com/gokrazy/tools => github.com/anupcshan/tools v0.0.0-2021121407
 replace github.com/gokrazy/bakery => github.com/anupcshan/bakery v0.0.0-20211116054014-fb8020da3ac8
 
 require (
-	github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211215061635-fe3ead8be485 // indirect
+	github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211219052823-a3a68d9de9d8 // indirect
 	github.com/breml/rootcerts v0.2.0 // indirect
 	github.com/gokrazy/bakery v0.0.0-00010101000000-000000000000 // indirect
 	github.com/gokrazy/breakglass v0.0.0-20211128150038-339c9ce56c98 // indirect
-	github.com/gokrazy/gokrazy v0.0.0-20211213081744-af5773f40f52 // indirect
+	github.com/gokrazy/gokrazy v0.0.0-20211218184743-3f026adfcbbc // indirect
 	github.com/gokrazy/internal v0.0.0-20211121154348-81842290f34c // indirect
 	github.com/gokrazy/serial-busybox v0.0.0-20211029180129-24c7ca0a91ab // indirect
-	github.com/gokrazy/tools v0.0.0-20211201075402-8127d75153da // indirect
+	github.com/gokrazy/tools v0.0.0-20211218185138-3bb6d5620329 // indirect
 	github.com/gokrazy/updater v0.0.0-20211121155532-30ae8cd650ea // indirect
 	github.com/google/gopacket v1.1.16 // indirect
 	github.com/mdlayher/raw v0.0.0-20190303161257-764d452d77af // indirect
