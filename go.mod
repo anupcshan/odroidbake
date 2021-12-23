@@ -7,7 +7,7 @@ replace github.com/gokrazy/tools => github.com/anupcshan/tools v0.0.0-2021122304
 replace github.com/gokrazy/bakery => github.com/anupcshan/bakery v0.0.0-20211116054014-fb8020da3ac8
 
 require (
-	github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211223035655-0ae4c8194ecb // indirect
+	github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211223194956-34688ef420d4 // indirect
 	github.com/breml/rootcerts v0.2.0 // indirect
 	github.com/gokrazy/bakery v0.0.0-00010101000000-000000000000 // indirect
 	github.com/gokrazy/breakglass v0.0.0-20211219175016-9bea6256b0bb // indirect
