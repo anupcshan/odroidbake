@@ -1,6 +1,4 @@
-use_mbr = true
-
-kernel_globs = ["boot.scr", "exynos5422-odroidhc1.dtb", "vmlinuz"]
+mbr_only_without_gpt = true
 
 # https://wiki.odroid.com/odroid-xu4/software/partition_table#tab__odroid-xu341
 [root_device_files]

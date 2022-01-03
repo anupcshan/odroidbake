@@ -1,5 +1,11 @@
 packages = github.com/gokrazy/breakglass github.com/gokrazy/serial-busybox github.com/gokrazy/bakery/cmd/bake
-commonflags = -kernel_package=github.com/anupcshan/gokrazy-odroidxu4-kernel -eeprom_package= -serial_console=disabled -firmware_package= -device_manifest=odroidhc2.toml
+commonflags = \
+	      -kernel_package=github.com/anupcshan/gokrazy-odroidxu4-kernel \
+	      -eeprom_package= \
+	      -serial_console=disabled \
+	      -firmware_package= \
+	      -hostname=odroidbake \
+	      -device_manifest=odroidhc2.toml
 
 install-tools:
 	go mod edit \
