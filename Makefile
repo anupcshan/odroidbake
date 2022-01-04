@@ -5,11 +5,13 @@ commonflags = \
 	      -serial_console=disabled \
 	      -firmware_package= \
 	      -hostname=odroidbake \
-	      -device_manifest=odroidhc2.toml
+	      -mbr_only_without_gpt \
+	      -device_type=odroidhc2
 
 install-tools:
 	go mod edit \
 		-replace=github.com/gokrazy/tools=github.com/anupcshan/tools@support-hc2 \
+		-replace=github.com/gokrazy/internal=github.com/anupcshan/internal@support-hc2 \
 		-replace=github.com/gokrazy/gokrazy=github.com/anupcshan/gokrazy@update-device-files
 	GOPROXY=direct go get github.com/gokrazy/tools/cmd/gokr-packer
 

@@ -1,8 +1,0 @@
-mbr_only_without_gpt = true
-
-# https://wiki.odroid.com/odroid-xu4/software/partition_table#tab__odroid-xu341
-[root_device_files]
-"bl1.bin"    = { offset =    512, max_length =  15360 } # sectors 1 - 30
-"bl2.bin"    = { offset =  15872, max_length =  16384 } # sectors 31 - 62
-"u-boot.bin" = { offset =  32256, max_length = 737280 } # sectors 63 - 1502
-"tzsw.bin"   = { offset = 769536, max_length = 262144 } # sectors 1503 - 2014
