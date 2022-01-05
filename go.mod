@@ -2,15 +2,13 @@ module github.com/anupcshan/gokrazy-odroidxu4-example
 
 go 1.17
 
+replace github.com/gokrazy/tools => github.com/anupcshan/tools v0.0.0-20220105040221-6722795b8376
+
+replace github.com/gokrazy/internal => github.com/anupcshan/internal v0.0.0-20220105034336-fc63ec963485
+
+replace github.com/gokrazy/gokrazy => github.com/anupcshan/gokrazy v0.0.0-20220105034859-a96c8e5d10ad
+
 replace github.com/gokrazy/bakery => github.com/anupcshan/bakery v0.0.0-20211116054014-fb8020da3ac8
-
-replace github.com/gokrazy/tools => github.com/anupcshan/tools v0.0.0-20220104063046-4049db55626d
-
-replace github.com/gokrazy/updater => github.com/anupcshan/updater v0.0.0-20211224051848-cea0bd6a1881
-
-replace github.com/gokrazy/gokrazy => github.com/anupcshan/gokrazy v0.0.0-20220104062428-f104a68c9947
-
-replace github.com/gokrazy/internal => github.com/anupcshan/internal v0.0.0-20220103075431-ba06915ec7ef
 
 require (
 	github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211230062423-82a5fbc3e350 // indirect

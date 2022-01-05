@@ -1,4 +1,8 @@
-packages = github.com/gokrazy/breakglass github.com/gokrazy/serial-busybox github.com/gokrazy/bakery/cmd/bake
+packages = \
+	   github.com/gokrazy/breakglass \
+	   github.com/gokrazy/serial-busybox \
+	   github.com/gokrazy/bakery/cmd/bake
+
 commonflags = \
 	      -kernel_package=github.com/anupcshan/gokrazy-odroidxu4-kernel \
 	      -eeprom_package= \
@@ -6,13 +10,16 @@ commonflags = \
 	      -firmware_package= \
 	      -hostname=odroidbake \
 	      -mbr_only_without_gpt \
-	      -device_type=odroidhc2
+	      -device_type="Hardkernel Odroid HC1"
 
 install-tools:
+	rm -f go.mod
+	go mod init github.com/anupcshan/gokrazy-odroidxu4-example
 	go mod edit \
 		-replace=github.com/gokrazy/tools=github.com/anupcshan/tools@support-hc2 \
 		-replace=github.com/gokrazy/internal=github.com/anupcshan/internal@support-hc2 \
-		-replace=github.com/gokrazy/gokrazy=github.com/anupcshan/gokrazy@update-device-files
+		-replace=github.com/gokrazy/gokrazy=github.com/anupcshan/gokrazy@update-device-files \
+		-replace=github.com/gokrazy/bakery=github.com/anupcshan/bakery@master
 	GOPROXY=direct go get github.com/gokrazy/tools/cmd/gokr-packer
 
 odroidbake.img:
