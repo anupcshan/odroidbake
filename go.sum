@@ -5,6 +5,8 @@ github.com/anupcshan/gokrazy v0.0.0-20220105034859-a96c8e5d10ad h1:K2mBUnXpHB9dg
 github.com/anupcshan/gokrazy v0.0.0-20220105034859-a96c8e5d10ad/go.mod h1:aD6N/9t++Wz6Y0xsS4iS23Wusi9n+9fIC+Fcdy9+IIc=
 github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211230062423-82a5fbc3e350 h1:ZpriwLb33r+yiX2rT85ISE9C8GO4t1q0Cjl1YMckcoc=
 github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20211230062423-82a5fbc3e350/go.mod h1:PWzO6mGVoCJYx1MWOeNtTcaS0pKhBX2T3oQtkAQoDFg=
+github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20220106045929-f79e7ef98459 h1:lql3oQMkVjwqg/79I+9+Z8bXlNROTCrmqqFP591DyYI=
+github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20220106045929-f79e7ef98459/go.mod h1:PWzO6mGVoCJYx1MWOeNtTcaS0pKhBX2T3oQtkAQoDFg=
 github.com/anupcshan/internal v0.0.0-20220105034336-fc63ec963485 h1:ACUY2270MnNg9exTcu5a5ezYEfL/o0RXX5OsdTCv2AE=
 github.com/anupcshan/internal v0.0.0-20220105034336-fc63ec963485/go.mod h1:Gc9sU6yJ/qxg3gJZ1pjfcTAULa0swdTa4TH51g1e00E=
 github.com/anupcshan/tools v0.0.0-20220105040221-6722795b8376 h1:EZZQcDbu36gedBPQIL0lZ3u48MSOwC1Y50PXQpeCzrg=
