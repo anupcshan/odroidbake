@@ -9,7 +9,6 @@ commonflags = \
 	      -serial_console=disabled \
 	      -firmware_package= \
 	      -hostname=odroidbake \
-	      -mbr_only_without_gpt \
 	      -device_type="Hardkernel Odroid HC1"
 
 install-tools:
