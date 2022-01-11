@@ -18,7 +18,7 @@ install-tools:
 		-replace=github.com/gokrazy/tools=github.com/anupcshan/tools@support-hc2 \
 		-replace=github.com/gokrazy/internal=github.com/anupcshan/internal@support-hc2 \
 		-replace=github.com/gokrazy/gokrazy=github.com/anupcshan/gokrazy@update-device-files \
-		-replace=github.com/gokrazy/bakery=github.com/anupcshan/bakery@master
+		-replace=github.com/gokrazy/bakery=github.com/anupcshan/bakery@support-hc2
 	GOPROXY=direct go get github.com/gokrazy/tools/cmd/gokr-packer
 
 odroidbake.img:

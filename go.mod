@@ -8,10 +8,10 @@ replace github.com/gokrazy/internal => github.com/anupcshan/internal v0.0.0-2022
 
 replace github.com/gokrazy/gokrazy => github.com/anupcshan/gokrazy v0.0.0-20220111052557-a8ef39553373
 
-replace github.com/gokrazy/bakery => github.com/anupcshan/bakery v0.0.0-20211116054014-fb8020da3ac8
+replace github.com/gokrazy/bakery => github.com/anupcshan/bakery v0.0.0-20220111060732-1625f961dbad
 
 require (
-	github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20220109201832-c20cdb609849 // indirect
+	github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20220111061253-8ae086960550 // indirect
 	github.com/breml/rootcerts v0.2.0 // indirect
 	github.com/gokrazy/bakery v0.0.0-00010101000000-000000000000 // indirect
 	github.com/gokrazy/breakglass v0.0.0-20220103104057-9d823f94f035 // indirect
