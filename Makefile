@@ -12,20 +12,20 @@ commonflags = \
 	      -device_type="Hardkernel Odroid HC1"
 
 install-tools:
-	rm -f go.mod
+	rm -f go.mod go.sum
 	go mod init github.com/anupcshan/gokrazy-odroidxu4-example
 	go mod edit \
-		-replace=github.com/gokrazy/tools=github.com/anupcshan/tools@support-hc2 \
-		-replace=github.com/gokrazy/internal=github.com/anupcshan/internal@support-hc2 \
-		-replace=github.com/gokrazy/gokrazy=github.com/anupcshan/gokrazy@update-device-files \
-		-replace=github.com/gokrazy/bakery=github.com/anupcshan/bakery@support-hc2
-	GOPROXY=direct go get github.com/gokrazy/tools/cmd/gokr-packer
+		-replace=github.com/gokrazy/tools=github.com/anupcshan/tools@support-hc2
+	go get github.com/gokrazy/tools/cmd/gokr-packer
 
 odroidbake.img:
 	GOARCH=arm gokr-packer -overwrite=$@ $(commonflags) -target_storage_bytes=$$((1500*1024*1024)) $(packages)
 
 update:
 	GOARCH=arm gokr-packer -update=yes $(commonflags) $(packages)
+
+testboot:
+	GOARCH=arm gokr-packer -update=yes $(commonflags) -testboot $(packages)
 
 disk:
 	GOARCH=arm gokr-packer -overwrite=/dev/mmcblk0 $(commonflags) $(packages)

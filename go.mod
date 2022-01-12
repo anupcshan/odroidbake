@@ -2,21 +2,15 @@ module github.com/anupcshan/gokrazy-odroidxu4-example
 
 go 1.17
 
-replace github.com/gokrazy/tools => github.com/anupcshan/tools v0.0.0-20220111054703-ac06f4da375c
-
-replace github.com/gokrazy/internal => github.com/anupcshan/internal v0.0.0-20220111045043-fd15a73000c3
-
-replace github.com/gokrazy/gokrazy => github.com/anupcshan/gokrazy v0.0.0-20220111052557-a8ef39553373
-
-replace github.com/gokrazy/bakery => github.com/anupcshan/bakery v0.0.0-20220111060732-1625f961dbad
+replace github.com/gokrazy/tools => github.com/anupcshan/tools v0.0.0-20220111205541-78646ec43bf1
 
 require (
-	github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20220111061253-8ae086960550 // indirect
+	github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20220112044141-4641f1e8ded3 // indirect
 	github.com/breml/rootcerts v0.2.0 // indirect
-	github.com/gokrazy/bakery v0.0.0-00010101000000-000000000000 // indirect
+	github.com/gokrazy/bakery v0.0.0-20220111192214-875e57f808d2 // indirect
 	github.com/gokrazy/breakglass v0.0.0-20220103104057-9d823f94f035 // indirect
-	github.com/gokrazy/gokrazy v0.0.0-20211218184743-3f026adfcbbc // indirect
-	github.com/gokrazy/internal v0.0.0-20211121154348-81842290f34c // indirect
+	github.com/gokrazy/gokrazy v0.0.0-20220111192931-e42cbd86b3f2 // indirect
+	github.com/gokrazy/internal v0.0.0-20220111191949-698f19a074ef // indirect
 	github.com/gokrazy/serial-busybox v0.0.0-20211029180129-24c7ca0a91ab // indirect
 	github.com/gokrazy/tools v0.0.0-20211227083436-71af7271f42c // indirect
 	github.com/gokrazy/updater v0.0.0-20211121155532-30ae8cd650ea // indirect
