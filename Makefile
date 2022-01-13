@@ -9,13 +9,14 @@ commonflags = \
 	      -serial_console=disabled \
 	      -firmware_package= \
 	      -hostname=odroidbake \
-	      -device_type="Hardkernel Odroid HC1"
+	      -device_type=odroidhc1
 
 install-tools:
 	rm -f go.mod go.sum
 	go mod init github.com/anupcshan/gokrazy-odroidxu4-example
 	go mod edit \
-		-replace=github.com/gokrazy/tools=github.com/anupcshan/tools@support-hc2
+		-replace=github.com/gokrazy/tools=github.com/anupcshan/tools@support-hc2 \
+		-replace=github.com/gokrazy/internal=github.com/anupcshan/internal@dc-slug
 	go get github.com/gokrazy/tools/cmd/gokr-packer
 
 odroidbake.img:

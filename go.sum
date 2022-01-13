@@ -1,8 +1,10 @@
 github.com/anatol/vmtest v0.0.0-20210623221036-69fc760fbd4b/go.mod h1:l08qtd2JHjoYWIROnbKoKCUqIbe54ndrXwDdyiDfq30=
 github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20220112044141-4641f1e8ded3 h1:BpDqImuqTPJ4oxPw5FTsz2UweJsk9TMN+Be0z2vE0U8=
 github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20220112044141-4641f1e8ded3/go.mod h1:PWzO6mGVoCJYx1MWOeNtTcaS0pKhBX2T3oQtkAQoDFg=
-github.com/anupcshan/tools v0.0.0-20220111205541-78646ec43bf1 h1:XJi2/V2ODDREcGKqeaQfRM5R/ethpYL8tvrYxJrUkbo=
-github.com/anupcshan/tools v0.0.0-20220111205541-78646ec43bf1/go.mod h1:fLURCq22IGTBF1FL6EwrKoLGn63MMioFet6yZvK05es=
+github.com/anupcshan/internal v0.0.0-20220113031043-af79b6e7b679 h1:OWwzFQahmmahKLsya4leeMoZnGKzYA+VQ6Kh5oIw58k=
+github.com/anupcshan/internal v0.0.0-20220113031043-af79b6e7b679/go.mod h1:Gc9sU6yJ/qxg3gJZ1pjfcTAULa0swdTa4TH51g1e00E=
+github.com/anupcshan/tools v0.0.0-20220113031758-fea5958339c2 h1:f4dyvOiWAdwQhRhkuKdtaOEABHhiIP+K05YgHkr1/vc=
+github.com/anupcshan/tools v0.0.0-20220113031758-fea5958339c2/go.mod h1:fLURCq22IGTBF1FL6EwrKoLGn63MMioFet6yZvK05es=
 github.com/beevik/ntp v0.2.0 h1:sGsd+kAXzT0bfVfzJfce04g+dSRfrs+tbQW8lweuYgw=
 github.com/beevik/ntp v0.2.0/go.mod h1:hIHWr+l3+/clUnF44zdK+CWW7fO8dR5cIylAQ76NRpg=
 github.com/breml/rootcerts v0.2.0 h1:bBIgVe8bS0Ec+orgWpZ/GRYt3a0O8yoW+g2kSBY2aLE=
@@ -16,10 +18,6 @@ github.com/gokrazy/breakglass v0.0.0-20220103104057-9d823f94f035/go.mod h1:wgXQ8
 github.com/gokrazy/gokrazy v0.0.0-20200501080617-f3445e01a904/go.mod h1:pq6rGHqxMRPSaTXaCMzIZy0wLDusAJyoVNyNo05RLs0=
 github.com/gokrazy/gokrazy v0.0.0-20220111192931-e42cbd86b3f2 h1:8tFhu/kSaoxF6IGLkI5qtKIE2zaR1vqjTIFiAL+iGo4=
 github.com/gokrazy/gokrazy v0.0.0-20220111192931-e42cbd86b3f2/go.mod h1:z9nzDhiz6f52Zp21WSGnRzW2MlLBrsJdNLxXZoMti2w=
-github.com/gokrazy/internal v0.0.0-20200407075822-660ad467b7c9/go.mod h1:LA5TQy7LcvYGQOy75tkrYkFUhbV2nl5qEBP47PSi2JA=
-github.com/gokrazy/internal v0.0.0-20200626090505-539bb61868de/go.mod h1:LA5TQy7LcvYGQOy75tkrYkFUhbV2nl5qEBP47PSi2JA=
-github.com/gokrazy/internal v0.0.0-20220111191949-698f19a074ef h1:ymGWpZu9Ug4lTMlVslD+iB6K+zvSqh93sHKx/kyPwlw=
-github.com/gokrazy/internal v0.0.0-20220111191949-698f19a074ef/go.mod h1:Gc9sU6yJ/qxg3gJZ1pjfcTAULa0swdTa4TH51g1e00E=
 github.com/gokrazy/serial-busybox v0.0.0-20211029180129-24c7ca0a91ab h1:jg7jGyhoUN+32lqSq7qtNQNa1WI3jZ6xmL+ilDI66sc=
 github.com/gokrazy/serial-busybox v0.0.0-20211029180129-24c7ca0a91ab/go.mod h1:OYcG5tSb+QrelmUOO4EZVUFcIHyyZb0QDbEbZFUp1TA=
 github.com/gokrazy/updater v0.0.0-20210106211705-4d92b338dd24/go.mod h1:PYOvzGOL4nlBmuxu7IyKQTFLaxr61+WPRNRzVtuYOHw=

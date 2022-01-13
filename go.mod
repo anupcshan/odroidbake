@@ -2,7 +2,9 @@ module github.com/anupcshan/gokrazy-odroidxu4-example
 
 go 1.17
 
-replace github.com/gokrazy/tools => github.com/anupcshan/tools v0.0.0-20220111205541-78646ec43bf1
+replace github.com/gokrazy/tools => github.com/anupcshan/tools v0.0.0-20220113031758-fea5958339c2
+
+replace github.com/gokrazy/internal => github.com/anupcshan/internal v0.0.0-20220113031043-af79b6e7b679
 
 require (
 	github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20220112044141-4641f1e8ded3 // indirect
