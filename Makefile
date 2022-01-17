@@ -1,6 +1,7 @@
 packages = \
 	   github.com/gokrazy/breakglass \
 	   github.com/gokrazy/serial-busybox \
+	   github.com/gokrazy/timestamps \
 	   github.com/gokrazy/bakery/cmd/bake
 
 commonflags = \
