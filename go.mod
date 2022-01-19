@@ -3,7 +3,7 @@ module github.com/anupcshan/gokrazy-odroidxu4-example
 go 1.17
 
 require (
-	github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20220113171010-e56da1c50c3b // indirect
+	github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20220119063829-0d91db725a54 // indirect
 	github.com/breml/rootcerts v0.2.0 // indirect
 	github.com/gokrazy/bakery v0.0.0-20220111192214-875e57f808d2 // indirect
 	github.com/gokrazy/breakglass v0.0.0-20220103104057-9d823f94f035 // indirect

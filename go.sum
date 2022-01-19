@@ -1,6 +1,6 @@
 github.com/anatol/vmtest v0.0.0-20210623221036-69fc760fbd4b/go.mod h1:l08qtd2JHjoYWIROnbKoKCUqIbe54ndrXwDdyiDfq30=
-github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20220113171010-e56da1c50c3b h1:8YJETfrtnWl/KEdbT94/eXDFbjH+WpY0Nxzv+hfkw80=
-github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20220113171010-e56da1c50c3b/go.mod h1:PWzO6mGVoCJYx1MWOeNtTcaS0pKhBX2T3oQtkAQoDFg=
+github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20220119063829-0d91db725a54 h1:uAULIY9jkoOuw/S3INWTfj4mzjgFte0Ku39cKhodx5Y=
+github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20220119063829-0d91db725a54/go.mod h1:PWzO6mGVoCJYx1MWOeNtTcaS0pKhBX2T3oQtkAQoDFg=
 github.com/beevik/ntp v0.2.0 h1:sGsd+kAXzT0bfVfzJfce04g+dSRfrs+tbQW8lweuYgw=
 github.com/beevik/ntp v0.2.0/go.mod h1:hIHWr+l3+/clUnF44zdK+CWW7fO8dR5cIylAQ76NRpg=
 github.com/breml/rootcerts v0.2.0 h1:bBIgVe8bS0Ec+orgWpZ/GRYt3a0O8yoW+g2kSBY2aLE=
