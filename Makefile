@@ -2,7 +2,8 @@ packages = \
 	   github.com/gokrazy/breakglass \
 	   github.com/gokrazy/serial-busybox \
 	   github.com/gokrazy/timestamps \
-	   github.com/gokrazy/bakery/cmd/bake
+	   github.com/gokrazy/bakery/cmd/bake \
+	   github.com/prometheus/node_exporter
 
 commonflags = \
 	      -kernel_package=github.com/anupcshan/gokrazy-odroidxu4-kernel \
