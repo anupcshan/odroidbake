@@ -1,8 +1,9 @@
-module github.com/anupcshan/gokrazy-odroidxu4-example
+module gokrazy/build/odroidbake
 
 go 1.19
 
 require (
+	github.com/anupcshan/gokrazy-odroidxu4-kernel v0.0.0-20221113223731-946a84a6a995 // indirect
 	github.com/breml/rootcerts v0.2.0 // indirect
 	github.com/gokrazy/gokrazy v0.0.0-20220113081925-ca0fa4174944 // indirect
 	github.com/gokrazy/internal v0.0.0-20220913201530-a2f6689ea8f8 // indirect

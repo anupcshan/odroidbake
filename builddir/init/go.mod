@@ -1,4 +1,4 @@
-module github.com/anupcshan/gokrazy-odroidxu4-example
+module gokrazy/build/odroidbake
 
 go 1.19
 

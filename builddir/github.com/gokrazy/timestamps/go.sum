@@ -8,6 +8,8 @@ github.com/gokrazy/gokrazy v0.0.0-20220113081925-ca0fa4174944/go.mod h1:z9nzDhiz
 github.com/gokrazy/internal v0.0.0-20220111191949-698f19a074ef/go.mod h1:Gc9sU6yJ/qxg3gJZ1pjfcTAULa0swdTa4TH51g1e00E=
 github.com/gokrazy/internal v0.0.0-20220913201530-a2f6689ea8f8 h1:XyoKwLC5MRSJAUGHgkPe6hrjfVFHaeYujIXRNKTwagc=
 github.com/gokrazy/internal v0.0.0-20220913201530-a2f6689ea8f8/go.mod h1:oQlf9/bGlGch8QyOWTZlupgBKjzdLcBhi6SF9m9V8DM=
+github.com/gokrazy/timestamps v0.0.0-20220615183607-ec04c2289d1f h1:NrBSG/VZFo0BHfEhR7sBYWjKrnr7tjInk7pX2bmIAUw=
+github.com/gokrazy/timestamps v0.0.0-20220615183607-ec04c2289d1f/go.mod h1:RpikBhJ3K9euYrJsOletIHgKh0r01wk9zw1bLBWfEsg=
 github.com/gokrazy/tools v0.0.0-20221008090041-c87c806562c3 h1:dz49H9JKo4AP1feKtGxQNxzO472o8t0b5qz7YOl+QnA=
 github.com/gokrazy/tools v0.0.0-20221008090041-c87c806562c3/go.mod h1:o5QgDgPz+z/yecPXDyyJniUo8JurN7kdghCeINtTBOI=
 github.com/gokrazy/updater v0.0.0-20211121155532-30ae8cd650ea h1:NM/sLCKWWc9mnMtJZGbwOtaAwEpCEe6tlcXWKp3LEKk=
