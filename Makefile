@@ -16,11 +16,7 @@ install-tools:
 	rm -f go.mod go.sum
 	find builddir -name go.mod -delete
 	find builddir -name go.sum -delete
-	go mod init github.com/anupcshan/gokrazy-odroidxu4-example
-	go get github.com/gokrazy/tools/cmd/gokr-packer
-	# Fix build error for node_exporter - https://github.com/prometheus/node_exporter/issues/2482
-	# Can be removed once a new release is out.
-	# go get github.com/prometheus/node_exporter@v1.3.1
+	go install github.com/gokrazy/tools/cmd/gokr-packer@latest
 
 odroidbake.img:
 	GOARCH=arm gokr-packer -overwrite=$@ $(commonflags) -target_storage_bytes=$$((1500*1024*1024)) $(packages)
