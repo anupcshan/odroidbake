@@ -1,3 +1,4 @@
 github.com/gokrazy/internal v0.0.0-20220527192732-c79d6023dbc0 h1:krnyITnAiO4bhNpjdQFrG2ip+TuyRqT/h4m1IfbcVS4=
+github.com/gokrazy/internal v0.0.0-20220527192732-c79d6023dbc0/go.mod h1:Gc9sU6yJ/qxg3gJZ1pjfcTAULa0swdTa4TH51g1e00E=
 github.com/gokrazy/timestamps v0.0.0-20220615183607-ec04c2289d1f h1:NrBSG/VZFo0BHfEhR7sBYWjKrnr7tjInk7pX2bmIAUw=
 github.com/gokrazy/timestamps v0.0.0-20220615183607-ec04c2289d1f/go.mod h1:RpikBhJ3K9euYrJsOletIHgKh0r01wk9zw1bLBWfEsg=
